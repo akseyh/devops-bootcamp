@@ -10,7 +10,7 @@
 * Linux, network, security ve diğer konularda ön gereksinimlere ek tekrarlar ve uygulamalar
 * Python'un DevOps alanındaki kullanımı, kullanılan kütüphane ve örnekler
 
-### Notlar
+#### Notlar
 * [Gün #1](day-1/README.md)
 * [Gün #2](day-2/README.md)
 
@@ -27,7 +27,7 @@
 * Çoklu branch yapısının kullanımı
 * Örnek bir pipeline hazırlanması, otomatik tetiklenmesi, testlerin çalıştırılıp sunucuya gönderilmesi
 
-### Notlar
+#### Notlar
 
 - - - -
 
@@ -42,7 +42,7 @@
 * GCP 1. kısım -  VM'ler ve port açma işlemleri
 * IaC kavramı, Terraform'a giriş ve Docker provider ile uygulamalar, Terraform ile GCP kullanımı
 
-### Notlar
+#### Notlar
 
 - - - -
 
@@ -58,4 +58,4 @@
 * GKE cluster kurulumu, bağlantı, temel özellikler
 * GKE üzerinde yetkilendirme, node pool yapısı
 
-### Notlar
+#### Notlar
