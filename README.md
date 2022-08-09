@@ -14,6 +14,9 @@
 * [Gün #1](day-1/README.md)
 * [Gün #2](day-2/README.md)
 
+#### Uygulamalar
+* [nginx ile html dosyası serve etmek](homeworks/nginx-html/README.md)
+
 - - - -
 
 ### Hafta #2:
