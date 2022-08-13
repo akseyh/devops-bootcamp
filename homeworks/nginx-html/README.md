@@ -26,7 +26,7 @@ Makineniz oluştuktan sonra indirdiğimiz .pem uzantılı bir dosya ile ssh bağ
 Instances alanında üzerine tıklayarak public IPv4 address kısmından ssh ile bağlanacağınız ip adresini öğrenebilirsiniz.
 
 #### SSH ile bağlantı kurmak
-> Bootcamp notlarımda bununla ilgili komutlar var. [Day#2](../day-2/README.md)
+> Bootcamp notlarımda bununla ilgili komutlar var. [Day#2](../../day-2/README.md)
 
 AWS ubuntu makinelerde default kullanıcı adı: **ubuntu**.
 ```bash
