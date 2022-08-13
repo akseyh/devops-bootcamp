@@ -31,6 +31,7 @@
 * Örnek bir pipeline hazırlanması, otomatik tetiklenmesi, testlerin çalıştırılıp sunucuya gönderilmesi
 
 #### Notlar
+* [Gün #3](day-3/README.md)
 
 - - - -
 
