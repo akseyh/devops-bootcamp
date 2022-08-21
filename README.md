@@ -48,7 +48,14 @@
 * IaC kavramı, Terraform'a giriş ve Docker provider ile uygulamalar, Terraform ile GCP kullanımı
 
 #### Notlar
+* [Gün #5](day-5/README.md)
+* [Gün #6](day-6/README.md)
 
+#### Uygulamalar
+* [Dockerfile](day-6/dockerfile/Dockerfile)
+* [Python Dockerize](day-day-6/python-dockerize)
+* [Multi Stage](day-6/multi-stage)
+* [Terraform](day-6/terraform)
 - - - -
 
 ### Hafta #4:
