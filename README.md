@@ -53,7 +53,7 @@
 
 #### Uygulamalar
 * [Dockerfile](day-6/dockerfile/Dockerfile)
-* [Python Dockerize](day-day-6/python-dockerize)
+* [Python Dockerize](day-6/python-dockerize)
 * [Multi Stage](day-6/multi-stage)
 * [Terraform](day-6/terraform)
 - - - -
