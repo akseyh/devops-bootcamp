@@ -71,3 +71,4 @@
 * GKE üzerinde yetkilendirme, node pool yapısı
 
 #### Notlar
+* [Gün #7](day-7/README.md)
