@@ -72,3 +72,4 @@
 
 #### Notlar
 * [Gün #7](day-7/README.md)
+* [Gün #8](day-8/README.md)
